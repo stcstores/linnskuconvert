@@ -1,4 +1,4 @@
 pyperclip
 tabler
-git+ssh://lseagle@lsgit.uk/~/lsgit.uk/pylinnworks.git@v1.2
-git+ssh://lseagle@lsgit.uk/~/lsgit.uk/stclocal.git@v1.5
+git+https://github.com/stcstores/pylinnworks.git@v1.2
+git+https://github.com/stcstores/stclocal.git@v1.5
